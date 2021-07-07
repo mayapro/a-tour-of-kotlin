@@ -10,6 +10,7 @@ package basics.p1_basics.v_1_methodsAndVariables
 // - You can omit the semicolon from the end of a line
 // - string interpolation
 fun main(args: Array<String>) {
+    //maya
     println("Hello, world! ${ args.firstOrNull() } ")
 }
 
